@@ -2,7 +2,7 @@
 Title: Multi-threaded directory search
 
 Author:
-    Saurabh Kumar Soni (CS2426)
+    Saurabh Kumar Soni (CS2426) || 
     Souptik Halder (CS2434)
 
 
