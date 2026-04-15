@@ -15,5 +15,5 @@ Output:
     (ii) Total directories scanned count
     (iii) Execution time in Searching
 
-To run the file : "python thread.py"
+To run the file : "python multithread_dir_srch.py"
 ---
